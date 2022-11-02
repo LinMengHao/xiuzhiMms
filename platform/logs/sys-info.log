@@ -1,0 +1,134 @@
+10:27:06.242 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+10:27:06.358 [main] INFO  c.j.RuoYiApplication - [logStarting,55] - Starting RuoYiApplication using Java 1.8.0_341 on bogon with PID 1433 (/Users/yoca-391/Desktop/works/xiuzhiMms/platform/target/classes started by yoca-391 in /Users/yoca-391/Desktop/works/xiuzhiMms)
+10:27:06.360 [main] INFO  c.j.RuoYiApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+10:27:06.518 [main] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+10:27:06.518 [main] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+10:27:10.405 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+10:27:12.004 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+10:27:14.335 [main] INFO  c.a.d.p.DruidDataSource - [init,972] - {dataSource-1} inited
+10:27:14.461 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.471 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.472 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.473 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.474 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.475 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.476 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.476 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.477 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.478 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:27:14.704 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+10:27:15.454 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9100 (http)
+10:27:15.483 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9100"]
+10:27:15.484 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+10:27:15.485 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+10:27:15.653 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+10:27:15.653 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,290] - Root WebApplicationContext: initialization completed in 9133 ms
+10:27:16.069 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.070 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.071 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.072 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.073 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.073 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.074 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.075 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.077 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.078 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.080 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.081 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.083 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:16.084 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:27:21.535 [main] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+10:27:21.709 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,57] - Adding welcome page template: index
+10:27:23.070 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9100"]
+10:27:23.174 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9100 (http) with context path ''
+10:27:24.374 [main] INFO  c.j.RuoYiApplication - [logStarted,61] - Started RuoYiApplication in 19.588 seconds (JVM running for 32.579)
+10:30:14.104 [http-nio-9100-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:30:14.105 [http-nio-9100-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+10:30:14.109 [http-nio-9100-exec-1] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 4 ms
+10:30:14.147 [http-nio-9100-exec-1] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+10:30:14.220 [http-nio-9100-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+10:30:14.296 [http-nio-9100-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:15.181 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+10:30:15.557 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+10:30:27.127 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+10:30:34.204 [schedule-pool-3] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Success][登录成功]
+10:30:34.656 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.657 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.657 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.658 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.658 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.659 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:30:34.659 [http-nio-9100-exec-25] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+10:31:18.122 [http-nio-9100-exec-89] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:31:18.228 [http-nio-9100-exec-89] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:31:22.039 [http-nio-9100-exec-10] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:31:26.491 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:31:26.525 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:40:15.161 [schedule-pool-4] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+10:40:15.299 [schedule-pool-4] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+10:44:14.114 [http-nio-9100-exec-31] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:44:14.117 [http-nio-9100-exec-31] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:44:14.141 [http-nio-9100-exec-31] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:44:14.145 [http-nio-9100-exec-31] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:44:38.995 [http-nio-9100-exec-85] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:44:52.537 [http-nio-9100-exec-5] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+10:50:17.119 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+10:50:17.171 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:00:17.120 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:00:17.177 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:10:17.125 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:10:17.168 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:17:21.307 [http-nio-9100-exec-37] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:17:21.448 [http-nio-9100-exec-37] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:17:23.695 [http-nio-9100-exec-69] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:20:17.133 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:20:17.226 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:22:03.615 [http-nio-9100-exec-96] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+11:30:17.132 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:30:17.181 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:40:17.228 [schedule-pool-9] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:40:17.262 [schedule-pool-9] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+11:50:17.348 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+11:50:17.392 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+12:00:17.370 [schedule-pool-10] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+12:00:17.413 [schedule-pool-10] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+12:00:17.453 [schedule-pool-10] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. [1] sessions were stopped.
+12:10:17.383 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+12:10:17.450 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+12:20:17.484 [schedule-pool-11] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+12:20:17.509 [schedule-pool-11] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+13:11:13.769 [schedule-pool-12] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+13:11:13.951 [schedule-pool-12] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+13:21:13.782 [schedule-pool-7] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+13:21:13.822 [schedule-pool-7] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+13:31:13.801 [schedule-pool-4] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+13:31:13.832 [schedule-pool-4] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+13:41:13.871 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+13:41:13.927 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+13:51:13.828 [schedule-pool-13] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+13:51:13.851 [schedule-pool-13] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:01:13.845 [schedule-pool-14] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:01:13.885 [schedule-pool-14] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:11:13.865 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:11:13.934 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:21:13.876 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:21:13.941 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:31:15.991 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:31:16.041 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:41:16.009 [schedule-pool-15] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:41:16.054 [schedule-pool-15] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+14:51:16.027 [schedule-pool-9] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+14:51:16.068 [schedule-pool-9] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+15:01:16.042 [schedule-pool-16] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+15:01:16.102 [schedule-pool-16] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+15:11:16.070 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+15:11:16.115 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+15:21:16.101 [schedule-pool-17] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+15:21:16.163 [schedule-pool-17] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+15:31:16.113 [schedule-pool-10] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+15:31:16.206 [schedule-pool-10] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+15:35:42.351 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+15:35:42.399 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+15:35:42.399 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+15:35:42.504 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2051] - {dataSource-1} closing ...
+15:35:42.534 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2124] - {dataSource-1} closed

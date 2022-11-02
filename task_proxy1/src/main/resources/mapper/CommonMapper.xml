@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jiujia.mapper.ICommonMapper">
+
+    <!-- 批量更新，通过接收传进来的参数list进行循环着组装sql -->
+    <update id="batchUpdate" parameterType="java.util.List">
+        <!-- 接收list参数，循环着组装sql语句，注意for循环的写法
+             separator=";" 代表着每次循环完，在sql后面放一个分号
+             item="cus" 循环List的每条的结果集
+             collection="list" list 即为 map传过来的参数key -->
+        <foreach collection="list" separator="" item="cus">${cus}</foreach>
+    </update>
+    <select id="appInfoList" parameterType="String" resultType="java.util.HashMap">
+        SELECT * FROM t_application
+    </select>
+    <select id="modelInfoList" parameterType="String" resultType="java.util.HashMap">
+        SELECT model_id,app_id,sign_name,title FROM t_model WHERE STATUS = 'success' AND sign_name IS NOT NULL
+    </select>
+    <select id="channelInfoList" parameterType="String" resultType="java.util.HashMap">
+        SELECT * FROM t_channel WHERE STATUS = 'normal' AND link_max>0
+    </select>
+    <select id="routeBaseList" parameterType="String" resultType="java.util.HashMap">
+        SELECT * FROM e_route_base WHERE STATUS = 1
+    </select>
+    <select id="tableInfoList" parameterType="String" resultType="java.util.HashMap">
+        SHOW CREATE TABLE ${tableName}
+    </select>
+    <update id="createNewTable" parameterType="String">
+        ${createSql}
+    </update>
+    <select id="commonInfoList" parameterType="String" resultType="java.util.HashMap">
+        ${selectSql}
+    </select>
+    <select id="segmentList" parameterType="String" resultType="java.util.HashMap">
+        SELECT * FROM c_mobile_hcode
+    </select>
+</mapper>

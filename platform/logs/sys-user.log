@@ -1,0 +1,5 @@
+10:30:27.127 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][验证码错误]
+10:30:34.204 [schedule-pool-3] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Success][登录成功]
+15:35:42.351 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+15:35:42.399 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+15:35:42.399 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====

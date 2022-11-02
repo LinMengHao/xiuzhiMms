@@ -1,0 +1,155 @@
+16:27:00.446 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.3.Final
+16:27:00.551 [main] INFO  c.j.RuoYiApplication - [logStarting,55] - Starting RuoYiApplication using Java 1.8.0_341 on bogon with PID 13666 (/Users/yoca-391/Desktop/works/xiuzhiMms/platform/target/classes started by yoca-391 in /Users/yoca-391/Desktop/works/xiuzhiMms)
+16:27:00.553 [main] INFO  c.j.RuoYiApplication - [logStartupProfileInfo,686] - The following 1 profile is active: "druid"
+16:27:00.773 [main] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+16:27:00.773 [main] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - [logTo,255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+16:27:04.519 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-authCache]
+16:27:06.318 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [loginRecordCache]
+16:27:07.692 [main] INFO  c.a.d.p.DruidDataSource - [init,972] - {dataSource-1} inited
+16:27:07.829 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.838 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.839 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.840 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.841 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.842 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.843 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.844 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.845 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:07.846 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:27:08.323 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+16:27:09.129 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,108] - Tomcat initialized with port(s): 9100 (http)
+16:27:09.160 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-9100"]
+16:27:09.160 [main] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+16:27:09.161 [main] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.63]
+16:27:09.366 [main] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+16:27:09.367 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [prepareWebApplicationContext,290] - Root WebApplicationContext: initialization completed in 8593 ms
+16:27:09.911 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.912 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.913 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.914 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.914 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.915 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.916 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.917 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.918 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.919 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.922 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.924 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.924 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:09.925 [main] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:27:13.096 [main] INFO  o.s.b.d.a.OptionalLiveReloadServer - [startServer,58] - LiveReload server is running on port 35729
+16:27:13.179 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - [<init>,57] - Adding welcome page template: index
+16:27:14.094 [main] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-9100"]
+16:27:14.410 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [start,220] - Tomcat started on port(s): 9100 (http) with context path ''
+16:27:15.618 [main] INFO  c.j.RuoYiApplication - [logStarted,61] - Started RuoYiApplication in 16.376 seconds (JVM running for 29.435)
+16:30:00.797 [http-nio-9100-exec-2] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:30:00.798 [http-nio-9100-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,525] - Initializing Servlet 'dispatcherServlet'
+16:30:00.807 [http-nio-9100-exec-2] INFO  o.s.w.s.DispatcherServlet - [initServletBean,547] - Completed initialization in 9 ms
+16:30:00.855 [http-nio-9100-exec-2] INFO  o.a.s.s.m.AbstractValidatingSessionManager - [enableSessionValidation,233] - Enabling session validation scheduler...
+16:30:00.938 [http-nio-9100-exec-2] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [shiro-activeSessionCache]
+16:30:01.029 [http-nio-9100-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:30:01.906 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+16:30:02.192 [schedule-pool-1] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+16:30:14.458 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误1次]
+16:31:22.536 [schedule-pool-3] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误2次]
+16:31:34.046 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误3次]
+16:35:24.410 [schedule-pool-1] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误4次]
+16:38:09.654 [schedule-pool-5] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Success][登录成功]
+16:38:28.461 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.463 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.464 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.465 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.466 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.466 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:38:28.467 [http-nio-9100-exec-44] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+16:40:01.828 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+16:40:01.879 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+16:41:41.424 [http-nio-9100-exec-66] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:41:41.524 [http-nio-9100-exec-66] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:41:55.069 [http-nio-9100-exec-15] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:43:49.259 [http-nio-9100-exec-87] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:43:49.262 [http-nio-9100-exec-87] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:43:49.539 [http-nio-9100-exec-87] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:43:49.544 [http-nio-9100-exec-87] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:45:20.613 [http-nio-9100-exec-98] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:11.872 [http-nio-9100-exec-14] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:11.887 [http-nio-9100-exec-14] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:25.041 [http-nio-9100-exec-97] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:46.177 [http-nio-9100-exec-99] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:58.093 [http-nio-9100-exec-21] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:46:58.104 [http-nio-9100-exec-21] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:50:01.901 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+16:50:01.924 [schedule-pool-6] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+16:52:51.655 [http-nio-9100-exec-41] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:52:56.628 [http-nio-9100-exec-81] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:55:52.796 [http-nio-9100-exec-64] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:55:52.799 [http-nio-9100-exec-64] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:55:52.809 [http-nio-9100-exec-64] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:55:53.058 [http-nio-9100-exec-64] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:56:01.763 [http-nio-9100-exec-35] INFO  c.j.k.c.TModelController - [detail,373] - [tModel][tModel] data={"addTime":1654763057000,"appId":1,"application":{"appName":"admin","id":107,"params":{}},"companyId":100,"id":107,"mmsModel":{"companyId":100,"id":0,"modelId":"220609162622332","params":{},"status":"draft"},"modelId":"220609162622332","params":{},"status":"draft","title":"接口模板测试"}
+16:56:09.454 [http-nio-9100-exec-29] INFO  c.j.k.c.TModelController - [detail,373] - [tModel][tModel] data={"addTime":1650259918000,"appId":45,"application":{"id":99,"params":{}},"companyId":100,"id":99,"mmsModel":{"companyId":100,"id":0,"modelId":"220418133159331","params":{},"status":"success"},"modelId":"220418133159331","params":{},"status":"success","title":"测试ms"}
+16:59:17.816 [http-nio-9100-exec-51] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+16:59:21.042 [http-nio-9100-exec-1] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:00:01.914 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:00:01.938 [schedule-pool-3] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+17:00:41.151 [http-nio-9100-exec-67] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:03:03.792 [http-nio-9100-exec-58] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:03:03.805 [http-nio-9100-exec-58] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:03:35.125 [http-nio-9100-exec-26] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:03:50.178 [http-nio-9100-exec-95] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:04:47.139 [http-nio-9100-exec-35] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:13.728 [http-nio-9100-exec-100] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:13.730 [http-nio-9100-exec-100] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:13.743 [http-nio-9100-exec-100] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:13.754 [http-nio-9100-exec-100] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:22.640 [http-nio-9100-exec-51] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:25.207 [http-nio-9100-exec-27] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+17:05:25.208 [http-nio-9100-exec-27] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:05:25.238 [http-nio-9100-exec-27] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-config]
+17:05:51.121 [http-nio-9100-exec-46] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:07:03.820 [http-nio-9100-exec-4] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:07:03.825 [http-nio-9100-exec-4] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:07:03.845 [http-nio-9100-exec-4] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:07:03.848 [http-nio-9100-exec-4] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:07:16.750 [http-nio-9100-exec-90] INFO  c.j.k.c.TModelController - [selectByAppID,384] - [model][model] data=[{"addTime":1641954480000,"appId":1,"application":{"id":34,"params":{}},"companyId":100,"id":34,"mmsModel":{"companyId":100,"id":0,"modelId":"220112102912331","params":{},"status":"success"},"modelId":"220112102912331","params":{},"productId":"2","signReport":{"productId":"2"},"status":"success","title":"益容盛-普通模板","variate":"novariate"},{"addTime":1646387376000,"appId":1,"application":{"id":38,"params":{}},"companyId":100,"id":38,"mmsModel":{"companyId":100,"id":0,"modelId":"220304174936331","params":{},"status":"success"},"modelId":"220304174936331","params":{},"status":"success","title":"扔到识别后色图","variate":"variate"},{"addTime":1646621876000,"appId":1,"application":{"id":41,"params":{}},"companyId":100,"id":41,"mmsModel":{"companyId":100,"id":0,"modelId":"220307105755331","params":{},"status":"success"},"modelId":"220307105755331","params":{},"status":"success","title":"343242134","variate":"variate"},{"addTime":1646623012000,"appId":1,"application":{"id":43,"params":{}},"companyId":100,"id":43,"mmsModel":{"companyId":100,"id":0,"modelId":"220307111652333","params":{},"status":"success"},"modelId":"220307111652333","params":{},"status":"success","title":"3242134","variate":"novariate"},{"addTime":1649733313000,"appId":1,"application":{"id":93,"params":{}},"companyId":100,"id":93,"mmsModel":{"companyId":100,"id":0,"modelId":"211014150652331","params":{},"status":"success"},"modelId":"211014150652331","params":{},"status":"success","title":"九佳测试"}]
+17:07:28.264 [http-nio-9100-exec-65] INFO  c.j.k.c.TModelController - [add,162] - [applist][RECHARGE] data=[{"addTime":1660792229000,"appExt":"4018","appName":"admin","appType":"user","authIp":"127.0.0.2","companyId":100,"defaultSign":"久佳测试","fromFlag":"both","id":1,"limitCount":1210,"moSyncAddress":"http://192.168.2.45:8000/c2/mms/mo","moSyncModel":"pull","params":{},"password":"xzkj1225","payCount":0,"payment":"arrears","productId":1,"pushReportFormat":"json","rptSyncAddress":"http://192.168.2.45:8000/c2/mms/report","rptSyncModel":"push","sentCount":206,"sourceMent":"","status":"normal"},{"addTime":1666679357000,"appExt":"106","appName":"gzxpkj","appType":"account","authIp":"","companyId":101,"defaultSign":"","fromFlag":"both","id":2,"limitCount":1941142,"moSyncAddress":"","moSyncModel":"pull","params":{},"password":"xpwl81kj","payCount":4466000,"payment":"advance","productId":1,"pushReportFormat":"json","rptSyncAddress":"http://112.74.58.53:8631/sms/gateway/gdmms/report","rptSyncModel":"push","sentCount":0,"sourceMent":"","status":"normal"},{"addTime":1666523525000,"appExt":"","appName":"xiuzhi","appType":"account","authIp":"","companyId":100,"defaultSign":"","fromFlag":"both","id":3,"limitCount":6,"moSyncAddress":"","moSyncModel":"pull","params":{},"password":"xiuzhi66","payCount":18,"payment":"advance","productId":1,"pushReportFormat":"json","rptSyncAddress":"","rptSyncModel":"pull","sentCount":0,"sourceMent":"","status":"normal"},{"addTime":1662444750000,"appExt":"106501","appName":"Wldz01","appType":"account","authIp":"","companyId":102,"defaultSign":"","fromFlag":"both","id":4,"limitCount":0,"moSyncAddress":"demo.com/report","moSyncModel":"push","params":{},"password":"wldz0196","payCount":0,"payment":"advance","productId":1,"pushReportFormat":"json","rptSyncAddress":"demo.com/report","rptSyncModel":"push","sentCount":0,"sourceMent":"","status":"normal"},{"addTime":1663726036000,"appExt":"106101","appName":"Pgy001","appType":"account","authIp":"","companyId":103,"defaultSign":"","fromFlag":"both","id":5,"limitCount":-8,"moSyncAddress":"http://demo.com","moSyncModel":"push","params":{},"password":"pgyi0906","payCount":0,"payment":"arrears","productId":1,"pushReportFormat":"json","rptSyncAddress":"http://8.136.153.186:8888/RcvPush/XZV0002/smsrptpush","rptSyncModel":"push","sentCount":0,"sourceMent":"","status":"normal"},{"addTime":1662457123000,"appExt":"106502","appName":"dykj01","appType":"account","authIp":"","companyId":104,"defaultSign":"","fromFlag":"both","id":6,"limitCount":0,"moSyncAddress":"http://demo/report","moSyncModel":"push","params":{},"password":"dykj0906","payCount":0,"payment":"advance","productId":1,"pushReportFormat":"json","rptSyncAddress":"http://demo/report","rptSyncModel":"push","sentCount":0,"sourceMent":"","status":"normal"},{"addTime":1666162030000,"appExt":"106103","appName":"AdyV01","appType":"account","authIp":"","companyId":105,"defaultSign":"","fromFlag":"both","id":7,"limitCount":100,"moSyncAddress":"http://demo.com","moSyncModel":"push","params":{},"password":"dykj0906","payCount":100,"payment":"advance","productId":1,"pushReportFormat":"json","rptSyncAddress":"http://demo.com","rptSyncModel":"push","sentCount":0,"sourceMent":"","status":"normal"}]
+17:09:00.961 [http-nio-9100-exec-2] INFO  c.j.k.c.TModelController - [selectByAppID,384] - [model][model] data=[{"addTime":1647511480000,"appId":5,"application":{"id":73,"params":{}},"companyId":100,"id":73,"mmsModel":{"companyId":100,"id":0,"modelId":"220317180439331","params":{},"status":"success"},"modelId":"220317180439331","params":{},"status":"success","title":"测试","variate":"variate"}]
+17:09:19.604 [http-nio-9100-exec-46] INFO  c.j.k.c.TModelController - [selectByAppID,384] - [model][model] data=[{"addTime":1641954480000,"appId":1,"application":{"id":34,"params":{}},"companyId":100,"id":34,"mmsModel":{"companyId":100,"id":0,"modelId":"220112102912331","params":{},"status":"success"},"modelId":"220112102912331","params":{},"productId":"2","signReport":{"productId":"2"},"status":"success","title":"益容盛-普通模板","variate":"novariate"},{"addTime":1646387376000,"appId":1,"application":{"id":38,"params":{}},"companyId":100,"id":38,"mmsModel":{"companyId":100,"id":0,"modelId":"220304174936331","params":{},"status":"success"},"modelId":"220304174936331","params":{},"status":"success","title":"扔到识别后色图","variate":"variate"},{"addTime":1646621876000,"appId":1,"application":{"id":41,"params":{}},"companyId":100,"id":41,"mmsModel":{"companyId":100,"id":0,"modelId":"220307105755331","params":{},"status":"success"},"modelId":"220307105755331","params":{},"status":"success","title":"343242134","variate":"variate"},{"addTime":1646623012000,"appId":1,"application":{"id":43,"params":{}},"companyId":100,"id":43,"mmsModel":{"companyId":100,"id":0,"modelId":"220307111652333","params":{},"status":"success"},"modelId":"220307111652333","params":{},"status":"success","title":"3242134","variate":"novariate"},{"addTime":1649733313000,"appId":1,"application":{"id":93,"params":{}},"companyId":100,"id":93,"mmsModel":{"companyId":100,"id":0,"modelId":"211014150652331","params":{},"status":"success"},"modelId":"211014150652331","params":{},"status":"success","title":"九佳测试"}]
+17:09:29.320 [http-nio-9100-exec-91] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:09:51.139 [http-nio-9100-exec-49] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:10:01.949 [schedule-pool-18] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:10:01.977 [schedule-pool-18] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+17:11:45.226 [http-nio-9100-exec-4] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:11:58.085 [http-nio-9100-exec-30] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:13:06.953 [http-nio-9100-exec-84] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-dict]
+17:19:45.370 [http-nio-9100-exec-96] INFO  c.j.k.c.TModelController - [selectByAppID,384] - [model][model] data=[{"addTime":1641954480000,"appId":1,"application":{"id":34,"params":{}},"companyId":100,"id":34,"mmsModel":{"companyId":100,"id":0,"modelId":"220112102912331","params":{},"status":"success"},"modelId":"220112102912331","params":{},"productId":"2","signReport":{"productId":"2"},"status":"success","title":"益容盛-普通模板","variate":"novariate"},{"addTime":1646387376000,"appId":1,"application":{"id":38,"params":{}},"companyId":100,"id":38,"mmsModel":{"companyId":100,"id":0,"modelId":"220304174936331","params":{},"status":"success"},"modelId":"220304174936331","params":{},"status":"success","title":"扔到识别后色图","variate":"variate"},{"addTime":1646621876000,"appId":1,"application":{"id":41,"params":{}},"companyId":100,"id":41,"mmsModel":{"companyId":100,"id":0,"modelId":"220307105755331","params":{},"status":"success"},"modelId":"220307105755331","params":{},"status":"success","title":"343242134","variate":"variate"},{"addTime":1646623012000,"appId":1,"application":{"id":43,"params":{}},"companyId":100,"id":43,"mmsModel":{"companyId":100,"id":0,"modelId":"220307111652333","params":{},"status":"success"},"modelId":"220307111652333","params":{},"status":"success","title":"3242134","variate":"novariate"},{"addTime":1649733313000,"appId":1,"application":{"id":93,"params":{}},"companyId":100,"id":93,"mmsModel":{"companyId":100,"id":0,"modelId":"211014150652331","params":{},"status":"success"},"modelId":"211014150652331","params":{},"status":"success","title":"九佳测试"}]
+17:20:01.982 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:20:02.010 [schedule-pool-8] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+17:21:57.499 [http-nio-9100-exec-46] INFO  c.j.k.c.MmsSenderController - [signature,63] - [LOGIN] appId=1modelId=34param1fffd,fdf,fd
+17:21:57.669 [http-nio-9100-exec-46] INFO  c.j.k.c.MmsSenderController - [signature,109] - url=http://172.16.30.22:8090/mms_model/variable/sendbody=eyJtbXNfaWQiOiIyMjAxMTIxMDI5MTIzMzEiLCJtbXNfZnJvbSI6IiIsInBob25lcyI6IjE4NzU2MjMyNzcwIiwidGVtcGxhdGVQYXJhbSI6IltbXCJmZmZkXCIsXCJmZGZcIl0sW1wiZmRcIl1dIn0=appid=adminsign=b85f1e5cade209daf04be845d50be40f
+17:21:57.702 [http-nio-9100-exec-46] INFO  c.j.c.u.h.HttpUtils - [sendPost,135] - sendPost - http://172.16.30.22:8090/mms_model/variable/send
+17:23:12.904 [http-nio-9100-exec-46] INFO  c.j.k.c.MmsSenderController - [signature,111] - 
+17:30:02.099 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:30:02.189 [schedule-pool-2] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+17:40:02.055 [schedule-pool-24] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:40:02.097 [schedule-pool-24] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+17:50:02.104 [schedule-pool-16] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+17:50:22.652 [schedule-pool-16] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:00:02.102 [schedule-pool-11] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:00:02.227 [schedule-pool-11] INFO  o.a.s.c.e.EhCacheManager - [getCache,169] - Using existing EHCache named [sys-userCache]
+18:00:02.429 [schedule-pool-11] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. [1] sessions were stopped.
+18:10:02.037 [schedule-pool-25] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:10:02.111 [schedule-pool-25] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:20:02.028 [schedule-pool-26] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:20:02.064 [schedule-pool-26] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:30:02.108 [schedule-pool-26] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:30:02.159 [schedule-pool-26] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:40:02.143 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:40:02.189 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:50:02.156 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,101] - invalidation sessions...
+18:50:02.206 [schedule-pool-5] INFO  c.j.f.s.w.s.OnlineWebSessionManager - [validateSessions,166] - Finished invalidation session. No sessions were stopped.
+18:50:45.099 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+18:50:45.157 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+18:50:45.159 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
+18:50:45.378 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2051] - {dataSource-1} closing ...
+18:50:45.400 [SpringApplicationShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2124] - {dataSource-1} closed

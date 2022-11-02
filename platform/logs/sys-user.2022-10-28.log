@@ -1,0 +1,8 @@
+16:30:14.458 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误1次]
+16:31:22.536 [schedule-pool-3] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误2次]
+16:31:34.046 [schedule-pool-2] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误3次]
+16:35:24.410 [schedule-pool-1] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Error][密码输入错误4次]
+16:38:09.654 [schedule-pool-5] INFO  sys-user - [run,106] - [127.0.0.1]内网IP[admin][Success][登录成功]
+18:50:45.099 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownSpringSessionValidationScheduler,45] - ====关闭会话验证任务====
+18:50:45.157 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,62] - ====关闭后台任务任务线程池====
+18:50:45.159 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownEhCacheManager,75] - ====关闭缓存====
